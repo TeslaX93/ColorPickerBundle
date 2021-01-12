@@ -1,7 +1,7 @@
 {
-    "name": "wandi/color-picker-bundle",
+    "name": "teslax93/color-picker-bundle",
     "type": "symfony-bundle",
-    "description": "Wandi/ColorPickerBundle",
+    "description": "TeslaX93/ColorPickerBundle",
     "keywords": [
         "Symfony",
         "Bundle",
@@ -10,7 +10,7 @@
         "EasyAdminBundle",
         "Admin"
     ],
-    "homepage": "https://github.com/WandiParis/ColorPickerBundle",
+    "homepage": "https://github.com/TeslaX93/ColorPickerBundle",
     "license": "MIT",
     "authors": [
         {
